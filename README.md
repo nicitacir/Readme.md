@@ -7,8 +7,8 @@
 
 ## Мой стек:
 ![Python](./icons/python.svg)
-[<img src="./icons/jupyter.svg" width="96px" height="96px">]
-[<img src="./icons/sql.svg" width="96px" height="96px">]
+<img src="./icons/jupyter.svg" width="96px" height="96px">
+<img src="./icons/sql.svg" width="96px" height="96px">
 
 ### Контакты:
 [<img src="./icons/telegram.svg">](https://t.me/NikitaTsyrulnik)
