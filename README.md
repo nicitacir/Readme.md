@@ -7,8 +7,8 @@
 
 ## Мой стек:
 ![Python](./icons/python.svg)
-![Jupiter notebook](./icons/jupyter.svg)
-![SQL](./icons/SQL.svg)
+![Jupiter notebook](./icons/jupyter.svg width="96px" height="96px")
+![SQL](./icons/SQL.svg width="96px" height="96px")
 
 ### Контакты:
 [<img src="./icons/telegram.svg">](https://t.me/NikitaTsyrulnik)
