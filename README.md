@@ -13,5 +13,5 @@
 
 
 ### Контакты:
-[<img src="./icons/telegram.svg">](https://t.me/NikitaTsyrulnik)
+<!--[<img src="./icons/telegram.svg">](https://t.me/NikitaTsyrulnik)
 [<img src="./icons/mail.svg" width="96px" height="96px">](mailto:nicitacir@yandex.ru)
