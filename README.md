@@ -4,4 +4,4 @@
 - ⚡ About me: I love analytics,data science and the NBA!!!
 
 ### Connect with me:
-[<img align="left"| width="22px" <img src="./icons/telegram.png">](https://t.me/NikitaTsyrulnik)
+[<img src="./icons/telegram.svg">](https://t.me/NikitaTsyrulnik)
